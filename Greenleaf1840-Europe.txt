@@ -1,0 +1,31 @@
+Author	Greenleaf, Jeremiah
+Date	1840
+Short Title	Europe.
+Publisher	G.R. French
+Publisher Location	Brattleboro
+Type	Atlas Map
+Obj Height cm	28
+Obj Width cm	33
+Scale 1	31,680,000
+Note	In full color by country.
+Reference	P784.
+World Area	Europe
+Full Title	Europe.
+List No	4850.005
+Page No	5
+Series No	8
+Publication Author	Greenleaf, Jeremiah
+Pub Date	1840
+Pub Title	A New Universal Atlas; Comprising Separate Maps Of all the Principal Empires, Kingdoms & States Throughout the World: and forming a distinct Atlas Of The United States. Carefully Compiled from the best Authorities Extant by Jeremiah Greenleaf. a new edition revised and corrected to the present time. 1840. Printed by G.R. French Brattleboro Vt.
+Pub Reference	cf P784.
+Pub Note	The first issue by Greenleaf, being a reissue of David Burr's 1836 edition of A New Universal Atlas. A new map of Texas is added. There are several changes from the Burr 1836 issue, primarily new railroads and some new counties. With the exception of the map of Illinois, Burr's imprint is removed from all the maps, as well as the copyright notice below the neat line . Full color. Atlas is bound in half leather black paper covered boards with a circular label reading "Jeremiah Greenleaf's Universal Atlas"; the spine has "Atlas" stamped in gold.
+Pub List No	4850.000
+Pub Type	World Atlas
+Pub Maps	64
+Pub Height cm	38
+Pub Width cm	32
+Image No	4850005
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/D0022/4850005.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Greenleaf, Jeremiah
+Collection	Rumsey Collection
